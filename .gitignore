@@ -1,0 +1,14 @@
+__pycache__
+
+*.*~
+
+*.pyc
+
+.idea
+
+*.7z
+
+venv
+
+# C extensions
+*.so
